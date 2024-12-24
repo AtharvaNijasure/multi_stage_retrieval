@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+peft
+tevatron
+typing
+cbor2
+trec-car-tools
+pyserini
+faiss-cpu
+typing
+deepspeed
